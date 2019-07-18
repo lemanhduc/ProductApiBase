@@ -1,0 +1,14 @@
+C:\PLE2\sandbox\base\src\product\bin\Debug\netcoreapp2.2\mississippi.product.deps.json
+C:\PLE2\sandbox\base\src\product\bin\Debug\netcoreapp2.2\mississippi.product.runtimeconfig.json
+C:\PLE2\sandbox\base\src\product\bin\Debug\netcoreapp2.2\mississippi.product.runtimeconfig.dev.json
+C:\PLE2\sandbox\base\src\product\bin\Debug\netcoreapp2.2\mississippi.product.dll
+C:\PLE2\sandbox\base\src\product\bin\Debug\netcoreapp2.2\mississippi.product.pdb
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.csprojAssemblyReference.cache
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.csproj.CoreCompileInputs.cache
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.RazorAssemblyInfo.cache
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.RazorAssemblyInfo.cs
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.AssemblyInfoInputs.cache
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.AssemblyInfo.cs
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.RazorTargetAssemblyInfo.cache
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.dll
+C:\PLE2\sandbox\base\src\product\obj\Debug\netcoreapp2.2\mississippi.product.pdb
